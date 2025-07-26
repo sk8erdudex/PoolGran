@@ -1,3 +1,2 @@
 #!/bin/bash
-
-reboot
+echo "hi"
