@@ -1,1 +1,1 @@
-touch /tmp/test_$(date +"%F_%X").log
+touch /tmp/testy_$(date +"%F_%X").log
